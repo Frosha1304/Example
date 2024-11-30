@@ -6,7 +6,7 @@ def minus(a, b):
 
 
 if __name__ == '__main__':
-    a = 22
-    b = 356
+    a = 1122
+    b = 34356
     print(plus(a, b))
     print(minus(a, b))
